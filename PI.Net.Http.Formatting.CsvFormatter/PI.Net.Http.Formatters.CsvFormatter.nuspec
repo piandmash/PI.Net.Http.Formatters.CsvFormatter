@@ -6,7 +6,7 @@
     <title>Pi &amp; Mash Http Formatting CsvFormatter Library</title>
     <authors>Pete Cleary</authors>
     <owners>Pi &amp; Mash</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <licenseUrl>https://github.com/piandmash/PI.Net.Http.Formatting.CsvFormatter/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/piandmash/PI.Net.Http.Formatting.CsvFormatter</projectUrl>
     <iconUrl>http://www.piandmash.com/assets/images/pi-orange-icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
