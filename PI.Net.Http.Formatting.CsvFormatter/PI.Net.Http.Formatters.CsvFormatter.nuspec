@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Pi &amp; Mash Http Formatting CsvFormatter Library</title>
+    <authors>Pete Cleary</authors>
+    <owners>Pi &amp; Mash</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>https://github.com/piandmash/PI.Net.Http.Formatting.CsvFormatter</projectUrl>
+    <iconUrl>http://www.piandmash.com/assets/images/pi-orange-icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>This package assists in outputing your objects to a CSV file in a binary format within Web API</summary>
+    <description>This package assists in outputing your objects to a CSV file in a binary format within Web API. </description>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.2" />
+      <dependency id="Microsoft.AspNet.WebApi.Core" version="5.2.2" />
+      <dependency id="Newtonsoft.Json" version="6.0.4" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Net" />
+      <frameworkAssembly assemblyName="System.Net.Http" />
+      <frameworkAssembly assemblyName="System.Net.Http.Formatting" />
+    </frameworkAssemblies>
+    <copyright>Copyright 2015</copyright>
+    <tags>WebApi CSV Formatters</tags>
+  </metadata>
+</package>
